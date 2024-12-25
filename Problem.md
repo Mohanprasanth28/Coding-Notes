@@ -20,7 +20,7 @@ Steps:
 
 ### Program:
 
-python
+```python
 class Solution(object):
     def removeDuplicates(self, nums):       
         i = 0       
@@ -30,7 +30,7 @@ class Solution(object):
                 nums[i] = nums[j]
         return i + 1
 
-
+```
 ---
 
 ### Explanation of the Code:
