@@ -1,3 +1,8 @@
+## DAY 04 :
+### Date  : 27.12.2024 (Friday)
+
+ - Study for semster exam
+ - slove leetcode problem
 ## Day 03 :
 ### Date : 26.12.2024 (Thursday)
 
