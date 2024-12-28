@@ -1,3 +1,9 @@
+## DAY 05 :
+### Date  : 28.12.2024 (saturday)
+
+ - Writing semster exam
+ - slove leetcode problem (math)
+
 ## DAY 04 :
 ### Date  : 27.12.2024 (Friday)
 
