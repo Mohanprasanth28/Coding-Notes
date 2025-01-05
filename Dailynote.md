@@ -1,3 +1,11 @@
+## DAY 13 :
+### Date : 05.01.2025 (Sunday)
+  - Study for semster exam
+
+## DAY 12:
+### Date : 04.01.2035 (Saturday)
+  - Learning hash map and linked 
+   
 ## DAY 11 :
 ### Date : 03.01.2024 (Friday)
 
