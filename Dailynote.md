@@ -1,3 +1,7 @@
+## DAy 14 :
+### Date : 06.01.2025 (Monday)
+  - Completed semester exam
+  
 ## DAY 13 :
 ### Date : 05.01.2025 (Sunday)
   - Study for semster exam
