@@ -1,4 +1,8 @@
-## DAy 14 :
+## DAY 15:
+### Date : 07.01.2025 (Tuesday)
+  - Learn hash map 
+  
+## DAY 14 :
 ### Date : 06.01.2025 (Monday)
   - Completed semester exam
   
